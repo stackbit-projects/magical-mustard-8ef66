@@ -24,7 +24,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/1.png
+      url: /images/Screenshot 2021-11-22 at 19.43.11.png
       altText: Image alt text
       caption: Image caption
     styles:
